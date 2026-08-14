@@ -87,8 +87,6 @@ Emergency Signaling System
 
 Weighing Machines
 
-## Circuit Diagram ##
-
 ## Pragram  ##
 ```python
 #include "main.h"
