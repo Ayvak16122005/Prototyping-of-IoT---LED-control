@@ -87,7 +87,7 @@ Emergency Signaling System
 
 Weighing Machines
 
-## Pragram  ##
+## Program  ##
 ```python
 #include "main.h"
 void SystemClock_Config(void);
